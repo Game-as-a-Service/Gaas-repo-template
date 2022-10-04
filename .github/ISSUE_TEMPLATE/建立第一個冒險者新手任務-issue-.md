@@ -1,7 +1,7 @@
 ---
-name: 'Game as a Service 冒險者的新手任務 #1'
-about: 建立第一個 issue，並將此 issue assign 給所有成員
-title: ''
+name: '建立第一個冒險者新手任務 issue '
+about: 此為第一個冒險者新手任務 issue 樣板
+title: 'Game as a Service 冒險者的新手任務 #1'
 labels: good first issue
 assignees: ''
 
