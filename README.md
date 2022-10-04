@@ -9,17 +9,15 @@
 1. *Test-Driven Development (TDD)
 1. *Clean Architecture
 1. *Behavior-Driven Development (BDD)
-1. *...
 
-## Tech Stack
+### Tech Stack
 1. *Java Spring Boot
 1. *MongoDB
 1. *React
 1. *...
 
-### Todo List
----
+# Todo List
 - [ ] 修改 template repo，變成自己團隊的 README
-- [ ] 依據團隊新手任務進度，在 issue#1 回報，進度狀況
+- [ ] 使用 template issue (建立第一個冒險者新手任務 issue )，來完成建立第一個 issue
 - [ ] *EventStorming
 - [ ] *...
